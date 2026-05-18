@@ -1,5 +1,5 @@
 # Praktikum_11-12_PemogramanMobile
-Nama  : Haykal Nauval Syafiq
+Nama  : Haykal Nauval Syafiq /n
 NIM   : 2410501005
 Kelas : A
 
