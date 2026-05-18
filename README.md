@@ -6,7 +6,7 @@ Kelas : A <br>
 ## Aplikasi katalog hidangan penutup
 <img width="464" height="861" alt="image" src="https://github.com/user-attachments/assets/4fd25467-97e0-4c50-b7c1-ebc5973e65cc" /> <br> 
 
-dengan step by step resep
+dengan step by step resep<br>
 <img width="435" height="914" alt="image" src="https://github.com/user-attachments/assets/baeaae05-15fd-4966-befa-abeb28b23950" /> <br> 
 
 ## Isi kodenya
